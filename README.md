@@ -1,4 +1,4 @@
-# 🌟 Advanced MERN B2B Teams Project Management SaaS - *TeamSync*  
+#  Advanced MERN B2B Teams Project Management SaaS - *TeamSync*  
 
 ##  Project Overview  
 
@@ -6,26 +6,26 @@ Welcome to **TeamSync**, a powerful and scalable multi-tenancy project managemen
 
 ---
 
-## 🌟 Key Features  
+## Key Features  
 
-- 🔐 **Authentication** (Google Sign-In, Email, Password)  
-- 🏢 **Create & Manage Multiple Workspaces**  
-- 📊 **Projects & Epics Management**  
-- ✅ **Tasks** (CRUD, Status, Priority, Assignee)  
-- 👥 **Roles & Permissions** (Owner, Admin, Member)  
-- ✉️ **Invite Members to Workspaces**  
-- 🔍 **Filters & Search** (Status, Priority, AssignedTo)  
-- 📈 **Analytics Dashboard**  
-- 📅 **Pagination & Load More**  
-- 🔒 **Cookie Session Management**  
-- 🚪 **Logout & Session Termination**  
-- 🌱 **Seeding** for Test Data  
-- 💾 **Mongoose Transactions** for Robust Data Integrity  
-- 🌐 **Built with MERN Stack** (Node.js, MongoDB, React, TypeScript)  
+-  **Authentication** (Google Sign-In, Email, Password)  
+-  **Create & Manage Multiple Workspaces**  
+-  **Projects & Epics Management**  
+-  **Tasks** (CRUD, Status, Priority, Assignee)  
+-  **Roles & Permissions** (Owner, Admin, Member)  
+-  **Invite Members to Workspaces**  
+-  **Filters & Search** (Status, Priority, AssignedTo)  
+-  **Analytics Dashboard**  
+-  **Pagination & Load More**  
+-  **Cookie Session Management**  
+-  **Logout & Session Termination**  
+-  **Seeding** for Test Data  
+-  **Mongoose Transactions** for Robust Data Integrity  
+-  **Built with MERN Stack** (Node.js, MongoDB, React, TypeScript)  
 
 ---
 
-## 🚀 Tools & Technologies  
+##  Tools & Technologies  
 
 This project leverages the latest tools and frameworks for modern development:  
 
